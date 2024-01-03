@@ -1,5 +1,5 @@
 Includes:
-\n
+<br>
 3 final Projects
 \n
 My Client project, FRC Scouting (Animal Game is in another Repo)
